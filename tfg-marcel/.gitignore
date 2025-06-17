@@ -1,0 +1,13 @@
+venv/
+secret.txt
+parquet_files/
+.env
+__pycache__/
+labeling_dataset.py
+data/
+dataset_*
+moe_v1/
+moe_v2/
+create_dataset/parquet_stats.ipynb
+create_dataset/test_code.py
+results.ipynb
