@@ -58,11 +58,9 @@ Logs were collected from various endpoints across the UPC network and stored in 
 - I matched key fields like subject.account_name with the alert's user to label related logs.
 
 
-
-
 ```
 cd existing_repo
-git remote add origin https://gitlab.i2cat.net/areas/cybersecurity/tfm/tfg-marcel.git
+git remote add origin https://github.com/Marcelfedz/CyberMoE.git
 git branch -M main
 git push -uf origin main
 ```
